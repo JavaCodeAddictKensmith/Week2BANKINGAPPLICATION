@@ -1,0 +1,15 @@
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/bin/Debug/net7.0/ATMAPPPractice
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/bin/Debug/net7.0/ATMAPPPractice.deps.json
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/bin/Debug/net7.0/ATMAPPPractice.runtimeconfig.json
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/bin/Debug/net7.0/ATMAPPPractice.dll
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/bin/Debug/net7.0/ATMAPPPractice.pdb
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.csproj.AssemblyReference.cache
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.AssemblyInfoInputs.cache
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.AssemblyInfo.cs
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.dll
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/refint/ATMAPPPractice.dll
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.pdb
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.genruntimeconfig.cache
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ref/ATMAPPPractice.dll

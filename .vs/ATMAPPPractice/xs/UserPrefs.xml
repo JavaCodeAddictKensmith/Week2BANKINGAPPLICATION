@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{38A80406-4861-424F-A779-08E077CBB09A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATMAPPPractice/App/ATMAPP.cs">
+    <Files>
+      <File FileName="ATMAPPPractice/App/ATMAPP.cs" Line="41" Column="41" />
+      <File FileName="ATMAPPPractice/UI/AppScreen.cs" Line="51" Column="10" />
+      <File FileName="ATMAPPPractice/UI/Validator.cs" />
+      <File FileName="ATMAPPPractice/App/Entry.cs" />
+      <File FileName="ATMAPPPractice/Domain/Interfaces/IUserLogin.cs" />
+      <File FileName="ATMAPPPractice/Domain/Entities/UserAccount.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ATMAPPPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
