@@ -13,3 +13,5 @@
 /Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.pdb
 /Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.genruntimeconfig.cache
 /Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ref/ATMAPPPractice.dll
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/bin/Debug/net7.0/ConsoleTables.dll
+/Users/mac/Documents/ATMAPPPractice/ATMAPPPractice/obj/Debug/net7.0/ATMAPPPractice.csproj.CopyComplete

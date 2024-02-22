@@ -23,4 +23,7 @@
     <Folder Include="Domain\Interfaces\" />
     <Folder Include="Domain\Enums\" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ConsoleTables" Version="2.6.1" />
+  </ItemGroup>
 </Project>

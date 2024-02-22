@@ -7,8 +7,13 @@ namespace ATMAPPPractice.UI
 
     public static class Utility
     {
+        private static long transId;
 
         private static CultureInfo culture = new CultureInfo("IG-NG");
+        public static long GetTranscationId()
+        {
+            return ++transId;
+        }
         public static string GetSecretInput(string prompt)
         {
             bool isPrompt = true;

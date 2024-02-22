@@ -1,11 +1,13 @@
 ﻿using System;
 namespace ATMAPPPractice.Domain.Enums
 {
-	public class TransactionType
+	public enum TransactionType
 	{
-		public TransactionType()
-		{
-		}
+		Deposit,
+		Withdrawal,
+		Transfer
+		
 	}
 }
 
+ 
